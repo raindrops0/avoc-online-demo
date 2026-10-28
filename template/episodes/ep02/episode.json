@@ -1,0 +1,21 @@
+{
+  "schema": "episode.v1",
+  "name": "ep02",
+  "source": "source.flac",
+  "video": "input/ep02.mkv",
+  "vocals": "separated/source_(vocals)_mel_band_roformer_kim_ft2_bleedless_unwa.flac",
+  "analysis": "analysis_16k.wav",
+  "subtitles": "input/ep02.ja.srt",
+  "subtitle_styles": [
+    "Default"
+  ],
+  "subtitle_offset": 0.0,
+  "subtitle_offsets": null,
+  "alignment_overlap": null,
+  "sample_rate": 48000,
+  "segmentation": "speaker_turns",
+  "audio_track": 0,
+  "spoken_language": "ja",
+  "spoken_from": "person",
+  "demo_copy_ready": true
+}
